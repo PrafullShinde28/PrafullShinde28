@@ -53,7 +53,7 @@
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <img src="./leetocode.png" alt="Prafull's LeetCode stats"/>
+  <img src="./Images/leetocode.png" alt="Prafull's LeetCode stats"/>
 </p>
 
 
