@@ -51,12 +51,6 @@
 
 ---
 
-### 📈 LeetCode Stats
-<p align="center">
-  <img src="./Images/leetocode.png" alt="Prafull's LeetCode stats"/>
-</p>
-
-
 
 ---
 
