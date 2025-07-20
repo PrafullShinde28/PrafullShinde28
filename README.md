@@ -53,15 +53,17 @@
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <img src="/c:\Users\prafu\Downloads\leetocode.png" alt="Prafull's LeetCode stats"/>
+  <img src="https://ibb.co/4wwyvKbX" alt="Prafull's LeetCode stats"/>
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/prafullshinde/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:prafullps2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="linkedin.com/in/prafull-shinde-0b8ab62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/prafullshinde2028/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:prafullshinde7007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </p>
 
 ---
